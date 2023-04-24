@@ -10,7 +10,8 @@ data just estimated (M-step).
 
 
 # To run
-
+Download the 5 hwdataset text files into the same directory as the main file.
+** They should be saved as "Data1", "Data2", "Data3"...**
 User needs to enter in the the starting point for the prompted parameters for each dataset. 
 Each dataset will then be plotted for comparison of Iteration to likelihood.
 Then the following stats will be printed:  P_G, P_W_G, P_H_G, total_likelihood
